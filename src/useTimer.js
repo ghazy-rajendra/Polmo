@@ -207,7 +207,7 @@ export function useTimer({ settings, onSessionComplete }) {
         }
     }, [timeLeft, running]);
 
-    // ── Reset time saat settings berubah (bukan saat running) ─
+    // ── Reset time saat settings berubah ─
     useEffect(() => {
         if (!running) {
             setTimeLeft(durationFor(mode, settings));
