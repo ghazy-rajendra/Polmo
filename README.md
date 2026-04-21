@@ -49,7 +49,6 @@ Pomodoro Web App adalah aplikasi berbasis web untuk meningkatkan produktivitas m
 
 ### 👤 User System
 
-* Authentication (Email / Google)
 * Custom setting:
 
   * Durasi fokus & break
@@ -58,7 +57,7 @@ Pomodoro Web App adalah aplikasi berbasis web untuk meningkatkan produktivitas m
 
 ---
 
-### ⚙️ Smart Rules (Non-AI)
+### ⚙️ Smart Rules
 
 * Auto long break setiap 4 sesi
 * Reminder saat idle
