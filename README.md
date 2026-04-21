@@ -53,7 +53,6 @@ Pomodoro Web App adalah aplikasi berbasis web untuk meningkatkan produktivitas m
 
   * Durasi fokus & break
   * Auto-start toggle
-* Data tersimpan di cloud
 
 ---
 
